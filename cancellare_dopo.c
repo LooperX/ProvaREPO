@@ -10,6 +10,9 @@
 #include <fcntl.h> 
 #include <sys/stat.h> 
 
+// PROVA CUCCU
+// CIAO COME VA?
+
 #define CL 3 
 #define S 10
 #define BUF_SIZE 256
